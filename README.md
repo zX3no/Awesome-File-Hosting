@@ -5,8 +5,6 @@ They are impossible to use without an ad-blocker.
 They ask for a captcha and still make you wait 30 seconds. 
 After all of that, your files download at 50 KB/s.
 
-Surely in 2022 we've overcome such limitations?
-
 ## Websites
 
 All of the following are: 
