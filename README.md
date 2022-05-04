@@ -1,11 +1,11 @@
 # Awesome file hosting
 
 I'm amazed at how horrible file hosting websites are. 
-They are impossible to navigate without an ad-blocker, ask for a seemingly impossible captcha, and after all that they download at 50 KB/s.
+They are difficult to navigate without an ad-blocker, ask for seemingly impossible captcha's, and after all that they download at 50 KB/s.
 
 Surely in 2022 we've overcome such limitations?
 
-### Websites
+## Websites
 
 All of the following are: 
 - Easy to use
