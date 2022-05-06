@@ -1,12 +1,5 @@
 # Awesome file hosting
 
-I'm amazed at how horrible file hosting websites are. 
-They are impossible to use without an ad-blocker. 
-They ask for a captcha and still make you wait 30 seconds. 
-After all of that, your files download at 50 KB/s.
-
-## Websites
-
 All of the following are: 
 - Easy to use
 - Don't require an account 
