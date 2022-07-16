@@ -4,7 +4,6 @@ All of the following are:
 - Easy to use
 - Don't require an account 
 - Have fast download speeds
-- Limited or no ads
 
 | Site                    | Notes                                                          | Ads |
 |-------------------------|----------------------------------------------------------------|-----|
