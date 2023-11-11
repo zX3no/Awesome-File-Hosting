@@ -8,4 +8,5 @@ All of the following are:
 |-------------------------|----------------------------------------------------------------|-----|------|
 | https://gofile.io/      | Unlimited bandwidth. Inactive links are deleted after 10 days. | Yes |  Yes |
 | https://pixeldrain.com/ | Download limit of 5 GB per day.                                | Yes |  Yes |
+| https://1fichier.com/   | Goofy website. 300GB file limit. Files removed after 15 days.  | Yes |  Yes |
 | https://wormhole.app/   | Files are deleted after 24 hours.                              | No  |  Yes |
